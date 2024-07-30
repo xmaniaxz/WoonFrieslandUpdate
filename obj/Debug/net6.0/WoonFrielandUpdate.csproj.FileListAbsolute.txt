@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\bin\Debug\net6.0\WoonFrielandUpdate.exe
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\bin\Debug\net6.0\WoonFrielandUpdate.deps.json
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\bin\Debug\net6.0\WoonFrielandUpdate.runtimeconfig.json
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\bin\Debug\net6.0\WoonFrielandUpdate.dll
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\bin\Debug\net6.0\WoonFrielandUpdate.pdb
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\WoonFrielandUpdate.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\WoonFrielandUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\WoonFrielandUpdate.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\WoonFrielandUpdate.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\WoonFrielandUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\WoonFrielandUpdate.dll
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\refint\WoonFrielandUpdate.dll
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\WoonFrielandUpdate.pdb
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\WoonFrielandUpdate.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\ref\WoonFrielandUpdate.dll
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\bin\Debug\net6.0\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Administrator\Desktop\Woonfriesland\WoonFrielandUpdate\obj\Debug\net6.0\WoonFrielandUpdate.csproj.CopyComplete
